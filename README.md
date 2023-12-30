@@ -6,13 +6,14 @@
 </p>
 
 <p align="center">
-    <svg width="100%" height="100%" viewBox="-10.5 -9.45 21 18.9" fill="none" xmlns="http://www.w3.org/2000/svg" class="mt-4 mb-3 text-link dark:text-link-dark w-24 lg:w-28 self-center text-sm me-0 flex origin-center transition-all ease-in-out"><circle cx="0" cy="0" r="2" fill="currentColor"></circle><g stroke="currentColor" stroke-width="1" fill="none"><ellipse rx="10" ry="4.5"></ellipse><ellipse rx="10" ry="4.5" transform="rotate(60)"></ellipse><ellipse rx="10" ry="4.5" transform="rotate(120)"></ellipse></g></svg>
+
 <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/344/external-vuejs-an-open-source-javascript-framework-for-building-user-interfaces-and-single-page-applications-logo-shadow-tal-revivo.png" width="60">
 <img src="https://img.icons8.com/color/2x/javascript--v2.gif" width="60">
 <!--<img src="https://www.rxwebtech.com/wp-content/uploads/2021/12/php.png" width="100">-->
 <img src="https://www.php.net//images/logos/new-php-logo.svg" width="90">
     
 <!--<img src="https://www.php.net/images/logos/elephpant-running-78x48.gif" width="90">-->
+<img width="24" height="24" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png" alt="external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo" width="60" />
 <img src="https://img.icons8.com/color/344/html-5--v1.png" width="60">
 <img src="https://img.icons8.com/color/344/css3.png" width="60">
 <img src="https://img.icons8.com/color/344/nodejs.png" width="65">
