@@ -6,14 +6,13 @@
 </p>
 
 <p align="center">
-
+<img src="https://img.icons8.com/?size=256&id=asWSSTBrDlTW&format=png"  width="60" />
 <img src="*https://img.icons8.com/?size=256&id=asWSSTBrDlTW&format=png*" width="60">
 <img src="https://img.icons8.com/color/2x/javascript--v2.gif" width="60">
 <!--<img src="https://www.rxwebtech.com/wp-content/uploads/2021/12/php.png" width="100">-->
 <img src="https://www.php.net//images/logos/new-php-logo.svg" width="90">
     
 <!--<img src="https://www.php.net/images/logos/elephpant-running-78x48.gif" width="90">-->
-<img width="24" height="24" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png" alt="external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo" width="60" />
 <img src="https://img.icons8.com/color/344/html-5--v1.png" width="60">
 <img src="https://img.icons8.com/color/344/css3.png" width="60">
 <img src="https://img.icons8.com/color/344/nodejs.png" width="65">
