@@ -7,7 +7,7 @@
 
 <p align="center">
 <img src="https://img.icons8.com/?size=256&id=asWSSTBrDlTW&format=png"  width="60" />
-<img src="*https://img.icons8.com/?size=256&id=asWSSTBrDlTW&format=png*" width="60"/>
+<img src="https://img.icons8.com/?size=256&id=asWSSTBrDlTW&format=png" width="60"/>
 <img src="https://img.icons8.com/color/2x/javascript--v2.gif" width="60">
 <!--<img src="https://www.rxwebtech.com/wp-content/uploads/2021/12/php.png" width="100">-->
 <img src="https://www.php.net//images/logos/new-php-logo.svg" width="90">
